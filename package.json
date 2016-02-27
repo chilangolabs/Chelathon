@@ -10,6 +10,7 @@
     "all": "npm run build && npm run test"
   },
   "dependencies": {
+    "conekta": "^1.5.0",
     "construx": "^1.0.0",
     "construx-copier": "^1.0.0",
     "eslint": "^1.10.3",

@@ -2,46 +2,42 @@
 
 'use strict';
 
+var kraken = require('kraken-js');
+var express = require('express');
+var path = require('path');
+var request = require('supertest');
 
-var kraken = require('kraken-js'),
-    express = require('express'),
-    path = require('path'),
-    request = require('supertest');
+describe('index', function() {
 
+  var app;
+  var mock;
 
-describe('index', function () {
+  beforeEach(function(done) {
+    app = express();
+    app.on('start', done);
+    app.use(kraken({
+      basedir: path.resolve(__dirname, '..')
+    }));
 
-    var app, mock;
+    mock = app.listen(1337);
 
+  });
 
-    beforeEach(function (done) {
-        app = express();
-        app.on('start', done);
-        app.use(kraken({
-            basedir: path.resolve(__dirname, '..')
-        }));
+  afterEach(function(done) {
+    mock.close(done);
+  });
 
-        mock = app.listen(1337);
+  it('should have model name "index"', function(done) {
+    request(mock)
+        .get('/')
+        .expect(200)
+        .expect('Content-Type', /html/)
 
-    });
-
-
-    afterEach(function (done) {
-        mock.close(done);
-    });
-
-
-    it('should have model name "index"', function (done) {
-        request(mock)
-            .get('/')
-            .expect(200)
-            .expect('Content-Type', /html/)
-            
                 .expect(/"name": "index"/)
-            
-            .end(function (err, res) {
-                done(err);
+
+            .end(function(err, res) {
+              done(err);
             });
-    });
+  });
 
 });
