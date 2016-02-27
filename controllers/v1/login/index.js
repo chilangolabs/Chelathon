@@ -1,6 +1,6 @@
 'use strict';
 
-// var IndexModel = require('../models/index');
+var User = require('../../../models/User');
 
 module.exports = function(router) {
 
