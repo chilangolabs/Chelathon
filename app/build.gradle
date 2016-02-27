@@ -28,4 +28,7 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:23.2.0'
     compile 'com.squareup.picasso:picasso:2.3.2'
     compile 'io.conekta:conektasdk:2.0'
+    compile project(':creditcarddesign')
+    compile project(':circualreveal')
+    compile 'com.nineoldandroids:library:2.4.0'
 }
