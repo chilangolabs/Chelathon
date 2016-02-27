@@ -9,10 +9,10 @@ var TransactionModel = function() {
     data: {},
     orden: {},
     address: {},
-    payment_method: String,
+    paymentMethod: String,
     _user: {
       type: mongoose.Schema.Types.ObjectId,
-      ref: User
+      ref: 'User'
     },
     _createdAt: {
       type: Date,
