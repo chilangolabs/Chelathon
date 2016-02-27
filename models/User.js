@@ -26,10 +26,12 @@ var UserModel = function() {
       }
     ],
     cards: [String],
-    _transactions: {
-      type: mongoose.Schema.Types.ObjectId,
-      ref: 'Transaction'
-    }
+    _transactions: [
+      {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'Transaction'
+      }
+    ]
   });
 
   var user = mongoose.model('User', userSchema);
