@@ -40,14 +40,14 @@ public class FragmentProductList extends Fragment {
 
     private List<ItemProducto> getProducts() {
         List<ItemProducto> itemProductos = new ArrayList<>();
-        itemProductos.add(new ItemProducto("Bud Light", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.beer_stella, true));
-        itemProductos.add(new ItemProducto("Bud Light", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.beer_stella, true));
-        itemProductos.add(new ItemProducto("Bud Light", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.beer_stella, true));
-        itemProductos.add(new ItemProducto("Bud Light", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.beer_stella, true));
-        itemProductos.add(new ItemProducto("Bud Light", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.beer_stella, true));
-        itemProductos.add(new ItemProducto("Bud Light", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.beer_stella, true));
-        itemProductos.add(new ItemProducto("Bud Light", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.beer_stella, true));
-        itemProductos.add(new ItemProducto("Bud Light", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.beer_stella, true));
+        itemProductos.add(new ItemProducto("Stella Artois", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.beer_stella, true));
+        itemProductos.add(new ItemProducto("Bud Light", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.botait, true));
+        itemProductos.add(new ItemProducto("Budweiser", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.butweiser, false));
+        itemProductos.add(new ItemProducto("Modelo", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.modelo, false));
+        itemProductos.add(new ItemProducto("Stella Artois", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.beer_stella, false));
+        itemProductos.add(new ItemProducto("Bud Light", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.botait, false));
+        itemProductos.add(new ItemProducto("Budweiser", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.butweiser, false));
+        itemProductos.add(new ItemProducto("Modelo", "12 Pack • Botella importada 12 Oz", "$140.00", R.mipmap.modelo, false));
         return itemProductos;
     }
 
