@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/circualreveal" />
             <option value="$PROJECT_DIR$/creditcarddesign" />
+            <option value="$PROJECT_DIR$/likebutton" />
           </set>
         </option>
         <option name="myModules">
@@ -19,6 +20,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/circualreveal" />
             <option value="$PROJECT_DIR$/creditcarddesign" />
+            <option value="$PROJECT_DIR$/likebutton" />
           </set>
         </option>
       </GradleProjectSettings>

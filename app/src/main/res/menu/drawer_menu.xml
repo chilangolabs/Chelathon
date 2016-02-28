@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_item_inicio"
+        android:title="Inicio Banamex Móvil" />
+
+    <item
+        android:id="@+id/nav_item_cajeros"
+        android:title="Cajeros ATM" />
+    <item
+        android:id="@+id/nav_item_promos"
+        android:title="Promociones" />
+    <item
+        android:id="@+id/nav_item_seguros"
+        android:title="Cotiza seguros Banamex" />
+    <item
+        android:id="@+id/nav_item_emerg"
+        android:title="Emergencias" />
+    <item
+        android:id="@+id/nav_item_contacto"
+        android:title="Contacto" />
+</menu>

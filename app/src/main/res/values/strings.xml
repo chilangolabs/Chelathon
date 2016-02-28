@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ModeloNow</string>
+    <string name="facebook_app_id">462857687253632</string>
+    <string name="opendrawer">opendrawer</string>
+    <string name="closedrawer">closedrawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
