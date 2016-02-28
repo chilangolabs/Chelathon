@@ -1,10 +1,21 @@
 {
   "specialization": {
   },
+  "session": {
+    "key": "ssid",
+    "secret": "BootsAndCats",
+    "resave": false,
+    "saveUninitialized": true
+  },
   "middleware": {
     "static": {
       "module": {
         "arguments": [ "path:./.build" ]
+      }
+    },
+    "session": {
+      "module": {
+        "arguments": [ "config:session" ]
       }
     },
     "router": {

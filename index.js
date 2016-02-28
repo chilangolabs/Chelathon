@@ -2,6 +2,9 @@
 
 var express = require('express');
 var kraken = require('kraken-js');
+var mongoose = require('mongoose');
+var session = require('express-session');
+var MongoStore = require('connect-mongo')(session);
 
 var options;
 var app;
@@ -16,7 +19,21 @@ options = {
      * Add any additional config setup or overrides here. `config` is an initialized
      * `confit` (https://github.com/krakenjs/confit/) configuration object.
      */
-    next(null, config);
+
+    console.log('Conectando a MongoDB');
+    mongoose.connect(
+      config.get('MONGO_DB') || 'mongodb://localhost/chelathon',
+      function(error) {
+        if (error) {
+          return next(error);
+        }
+        config.set('session:store', new MongoStore({
+          mongooseConnection: mongoose.connection
+        }));
+        console.log('Conexión exitosa');
+        next(null, config);
+      }
+    );
   }
 };
 
