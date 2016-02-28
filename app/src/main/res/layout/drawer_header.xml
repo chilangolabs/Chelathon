@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="@color/colorPrimary"
+    android:padding="@dimen/activity_horizontal_margin">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/profile_image"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@mipmap/user_profile"
+        app:civ_border_color="#FF000000"
+        app:civ_border_width="2dp" />
+
+    <com.chilangolabs.modelonow.customwidgets.TextViewMontserrat
+        android:id="@+id/headerTxtName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Sebastian"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        app:type="semibold" />
+
+    <com.chilangolabs.modelonow.customwidgets.TextViewMontserrat
+        android:id="@+id/headerTxtLastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/headerTxtName"
+        android:layout_alignBottom="@+id/headerTxtName"
+        android:layout_toEndOf="@+id/headerTxtName"
+        android:text="Tellez Orozco"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        app:type="thin" />
+
+</RelativeLayout>

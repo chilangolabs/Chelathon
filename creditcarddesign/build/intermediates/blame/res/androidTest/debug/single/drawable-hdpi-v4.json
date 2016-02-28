@@ -20,12 +20,12 @@
         "source": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",

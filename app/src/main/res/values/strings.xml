@@ -6,4 +6,7 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="base_url">http://162.243.233.211:8000</string>
+    <string name="endpoint_register">/v1/register</string>
+    <string name="preference_name">modelo_now_preference</string>
 </resources>

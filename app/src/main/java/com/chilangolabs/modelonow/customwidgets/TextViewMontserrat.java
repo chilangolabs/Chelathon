@@ -50,6 +50,10 @@ public class TextViewMontserrat extends TextView {
                 tf = Typeface.createFromAsset(getContext().getAssets(), "fonts/Montserrat-Bold.otf");
                 this.setTypeface(tf);
                 break;
+            case 3:
+                tf = Typeface.createFromAsset(getContext().getAssets(), "fonts/Montserrat-Light.otf");
+                this.setTypeface(tf);
+                break;
             default:
                 tf = Typeface.createFromAsset(getContext().getAssets(), "fonts/Montserrat-Regular.otf");
                 this.setTypeface(tf);
