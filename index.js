@@ -6,7 +6,7 @@ var Promise     = require('bluebird');
 var db          = require('./src/db');
 var telegramAPI = require('./src/api');
 var config      = require('./src/env');
-var User        = require('./model/User');
+var User        = require('./models/User');
 
 exports.handler = function(event, context) {
   console.log('event', event);
@@ -148,12 +148,11 @@ exports.handler = function(event, context) {
           ]);
       }
     });
-  }).then(function(res) {
   }).catch(function(err) {
     return '*fail* ' + JSON.stringify(err);
   }).then(function(text) {
-    if (!res) {
-      context.succeed(true);
+    if (!text) {
+      return context.succeed(true);
     }
     context.succeed({
       method: 'sendMessage',
