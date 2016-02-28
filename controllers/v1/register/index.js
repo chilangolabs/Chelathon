@@ -26,12 +26,14 @@ module.exports = function(router) {
         var user = new User(_user);
         user.save(function(err) {
           if (err) { return next(err); }
+          console.log('user', user.toObject());
           req.session.user = user;
           next();
         });
       },
       auth.getToken,
       function(req, res, next) {
+        console.log('token', req.session.token);
         res.send({token: req.session.token});
       }
     );
