@@ -264,11 +264,11 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="action_settings">Settings</string>
     <string name="app_name">CheckoutFlow</string>
-    <string name="card_holder_name_sample">JOHN MATTHEW</string>
-    <string name="done">DONE</string>
+    <string name="card_holder_name_sample">JAMES BOND</string>
+    <string name="done">LISTO</string>
     <string name="hello_world">Hello world!</string>
-    <string name="next">NEXT</string>
-    <string name="previous">PREVIOUS</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="previous">REGRESAR</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

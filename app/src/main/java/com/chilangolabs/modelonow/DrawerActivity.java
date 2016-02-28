@@ -18,7 +18,6 @@ import android.widget.ImageView;
 import com.chilangolabs.modelonow.customwidgets.TextViewMontserrat;
 import com.chilangolabs.modelonow.fragments.FragmentProductList;
 import com.chilangolabs.modelonow.fragments.FragmentPromos;
-import com.chilangolabs.modelonow.fragments.UserInfoFragment;
 import com.facebook.login.LoginManager;
 import com.squareup.picasso.Picasso;
 
@@ -113,7 +112,8 @@ public class DrawerActivity extends AppCompatActivity implements NavigationView.
             @Override
             public void onClick(View view) {
                 drawerLayout.closeDrawers();
-                changeFragment(new UserInfoFragment());
+                startActivity(new Intent(DrawerActivity.this, UserInfoActivity.class));
+//                changeFragment(new UserInfoFragment());
             }
         });
     }

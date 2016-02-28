@@ -31,10 +31,9 @@
         <activity
             android:name="com.cooltechworks.creditcarddesign.CardEditActivity"
             android:screenOrientation="portrait" />
-
-        <activity android:name=".DrawerActivity">
-
-        </activity>
+        <activity android:name=".DrawerActivity"></activity>
+        <activity android:name=".fragments.UserInfoFragment"></activity>
+        <activity android:name=".UserInfoActivity"></activity>
     </application>
 
 </manifest>

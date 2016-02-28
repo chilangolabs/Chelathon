@@ -4453,8 +4453,8 @@
                     "startLine": 266,
                     "startColumn": 4,
                     "startOffset": 32074,
-                    "endColumn": 64,
-                    "endOffset": 32134
+                    "endColumn": 62,
+                    "endOffset": 32132
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/bundles/debug/res/values/values.xml",
@@ -4462,8 +4462,8 @@
                         "startLine": 52,
                         "startColumn": 4,
                         "startOffset": 2833,
-                        "endColumn": 64,
-                        "endOffset": 2893
+                        "endColumn": 62,
+                        "endOffset": 2891
                     }
                 }
             },
@@ -4471,18 +4471,18 @@
                 "to": {
                     "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 32139,
-                    "endColumn": 37,
-                    "endOffset": 32172
+                    "startOffset": 32137,
+                    "endColumn": 38,
+                    "endOffset": 32171
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/bundles/debug/res/values/values.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
-                        "startOffset": 2898,
-                        "endColumn": 37,
-                        "endOffset": 2931
+                        "startOffset": 2896,
+                        "endColumn": 38,
+                        "endOffset": 2930
                     }
                 }
             },
@@ -4490,18 +4490,18 @@
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 32177,
+                    "startOffset": 32176,
                     "endColumn": 52,
-                    "endOffset": 32225
+                    "endOffset": 32224
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/bundles/debug/res/values/values.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 2936,
+                        "startOffset": 2935,
                         "endColumn": 52,
-                        "endOffset": 2984
+                        "endOffset": 2983
                     }
                 }
             },
@@ -4509,18 +4509,18 @@
                 "to": {
                     "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 32230,
-                    "endColumn": 37,
-                    "endOffset": 32263
+                    "startOffset": 32229,
+                    "endColumn": 42,
+                    "endOffset": 32267
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/bundles/debug/res/values/values.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
-                        "startOffset": 2989,
-                        "endColumn": 37,
-                        "endOffset": 3022
+                        "startOffset": 2988,
+                        "endColumn": 42,
+                        "endOffset": 3026
                     }
                 }
             },
@@ -4528,18 +4528,18 @@
                 "to": {
                     "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 32268,
+                    "startOffset": 32272,
                     "endColumn": 45,
-                    "endOffset": 32309
+                    "endOffset": 32313
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/bundles/debug/res/values/values.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 3027,
+                        "startOffset": 3031,
                         "endColumn": 45,
-                        "endOffset": 3068
+                        "endOffset": 3072
                     }
                 }
             },
@@ -4547,9 +4547,9 @@
                 "to": {
                     "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 32314,
+                    "startOffset": 32318,
                     "endColumn": 70,
-                    "endOffset": 32380
+                    "endOffset": 32384
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4566,9 +4566,9 @@
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 32385,
+                    "startOffset": 32389,
                     "endColumn": 77,
-                    "endOffset": 32458
+                    "endOffset": 32462
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4585,9 +4585,9 @@
                 "to": {
                     "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 32463,
+                    "startOffset": 32467,
                     "endColumn": 89,
-                    "endOffset": 32548
+                    "endOffset": 32552
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4604,9 +4604,9 @@
                 "to": {
                     "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 32553,
+                    "startOffset": 32557,
                     "endColumn": 87,
-                    "endOffset": 32636
+                    "endOffset": 32640
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4623,9 +4623,9 @@
                 "to": {
                     "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 32641,
+                    "startOffset": 32645,
                     "endColumn": 95,
-                    "endOffset": 32732
+                    "endOffset": 32736
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4642,20 +4642,20 @@
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 32737,
+                    "startOffset": 32741,
                     "endLine": 278,
                     "endColumn": 12,
-                    "endOffset": 32860
+                    "endOffset": 32864
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/bundles/debug/res/values/values.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
-                        "startOffset": 3073,
+                        "startOffset": 3077,
                         "endLine": 59,
                         "endColumn": 12,
-                        "endOffset": 3196
+                        "endOffset": 3200
                     }
                 }
             },
@@ -4663,10 +4663,10 @@
                 "to": {
                     "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 32865,
+                    "startOffset": 32869,
                     "endLine": 285,
                     "endColumn": 12,
-                    "endOffset": 33361
+                    "endOffset": 33365
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4684,9 +4684,9 @@
                 "to": {
                     "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 33366,
+                    "startOffset": 33370,
                     "endColumn": 88,
-                    "endOffset": 33450
+                    "endOffset": 33454
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4703,10 +4703,10 @@
                 "to": {
                     "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 33455,
+                    "startOffset": 33459,
                     "endLine": 290,
                     "endColumn": 12,
-                    "endOffset": 33697
+                    "endOffset": 33701
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4724,10 +4724,10 @@
                 "to": {
                     "startLine": 291,
                     "startColumn": 4,
-                    "startOffset": 33702,
+                    "startOffset": 33706,
                     "endLine": 294,
                     "endColumn": 12,
-                    "endOffset": 33978
+                    "endOffset": 33982
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4745,10 +4745,10 @@
                 "to": {
                     "startLine": 295,
                     "startColumn": 4,
-                    "startOffset": 33983,
+                    "startOffset": 33987,
                     "endLine": 299,
                     "endColumn": 12,
-                    "endOffset": 34263
+                    "endOffset": 34267
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4766,10 +4766,10 @@
                 "to": {
                     "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 34268,
+                    "startOffset": 34272,
                     "endLine": 305,
                     "endColumn": 12,
-                    "endOffset": 34656
+                    "endOffset": 34660
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4787,10 +4787,10 @@
                 "to": {
                     "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 34661,
+                    "startOffset": 34665,
                     "endLine": 312,
                     "endColumn": 12,
-                    "endOffset": 35133
+                    "endOffset": 35137
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4808,10 +4808,10 @@
                 "to": {
                     "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 35138,
+                    "startOffset": 35142,
                     "endLine": 316,
                     "endColumn": 12,
-                    "endOffset": 35355
+                    "endOffset": 35359
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4829,10 +4829,10 @@
                 "to": {
                     "startLine": 317,
                     "startColumn": 4,
-                    "startOffset": 35360,
+                    "startOffset": 35364,
                     "endLine": 320,
                     "endColumn": 12,
-                    "endOffset": 35577
+                    "endOffset": 35581
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4850,10 +4850,10 @@
                 "to": {
                     "startLine": 321,
                     "startColumn": 4,
-                    "startOffset": 35582,
+                    "startOffset": 35586,
                     "endLine": 325,
                     "endColumn": 12,
-                    "endOffset": 35845
+                    "endOffset": 35849
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4871,10 +4871,10 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 35850,
+                    "startOffset": 35854,
                     "endLine": 329,
                     "endColumn": 12,
-                    "endOffset": 36072
+                    "endOffset": 36076
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4892,10 +4892,10 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 36077,
+                    "startOffset": 36081,
                     "endLine": 333,
                     "endColumn": 12,
-                    "endOffset": 36302
+                    "endOffset": 36306
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4913,10 +4913,10 @@
                 "to": {
                     "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 36307,
+                    "startOffset": 36311,
                     "endLine": 337,
                     "endColumn": 12,
-                    "endOffset": 36532
+                    "endOffset": 36536
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4934,10 +4934,10 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 36537,
+                    "startOffset": 36541,
                     "endLine": 341,
                     "endColumn": 12,
-                    "endOffset": 36762
+                    "endOffset": 36766
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4955,10 +4955,10 @@
                 "to": {
                     "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 36767,
+                    "startOffset": 36771,
                     "endLine": 345,
                     "endColumn": 12,
-                    "endOffset": 36992
+                    "endOffset": 36996
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4976,10 +4976,10 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 36997,
+                    "startOffset": 37001,
                     "endLine": 349,
                     "endColumn": 12,
-                    "endOffset": 37219
+                    "endOffset": 37223
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -4997,10 +4997,10 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 37224,
+                    "startOffset": 37228,
                     "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 37458
+                    "endOffset": 37462
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5018,10 +5018,10 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 37463,
+                    "startOffset": 37467,
                     "endLine": 357,
                     "endColumn": 12,
-                    "endOffset": 37684
+                    "endOffset": 37688
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5039,10 +5039,10 @@
                 "to": {
                     "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 37689,
+                    "startOffset": 37693,
                     "endLine": 361,
                     "endColumn": 12,
-                    "endOffset": 37929
+                    "endOffset": 37933
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5060,10 +5060,10 @@
                 "to": {
                     "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 37934,
+                    "startOffset": 37938,
                     "endLine": 363,
                     "endColumn": 12,
-                    "endOffset": 38059
+                    "endOffset": 38063
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5081,10 +5081,10 @@
                 "to": {
                     "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 38064,
+                    "startOffset": 38068,
                     "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 38189
+                    "endOffset": 38193
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5102,10 +5102,10 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 38194,
+                    "startOffset": 38198,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 38419
+                    "endOffset": 38423
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5123,10 +5123,10 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 38424,
+                    "startOffset": 38428,
                     "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 38667
+                    "endOffset": 38671
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5144,10 +5144,10 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 38672,
+                    "startOffset": 38676,
                     "endLine": 377,
                     "endColumn": 12,
-                    "endOffset": 38886
+                    "endOffset": 38890
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5165,10 +5165,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 38891,
+                    "startOffset": 38895,
                     "endLine": 382,
                     "endColumn": 12,
-                    "endOffset": 39169
+                    "endOffset": 39173
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5186,10 +5186,10 @@
                 "to": {
                     "startLine": 383,
                     "startColumn": 4,
-                    "startOffset": 39174,
+                    "startOffset": 39178,
                     "endLine": 386,
                     "endColumn": 12,
-                    "endOffset": 39377
+                    "endOffset": 39381
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5207,10 +5207,10 @@
                 "to": {
                     "startLine": 387,
                     "startColumn": 4,
-                    "startOffset": 39382,
+                    "startOffset": 39386,
                     "endLine": 389,
                     "endColumn": 12,
-                    "endOffset": 39508
+                    "endOffset": 39512
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5228,10 +5228,10 @@
                 "to": {
                     "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 39513,
+                    "startOffset": 39517,
                     "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 39735
+                    "endOffset": 39739
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5249,10 +5249,10 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 39740,
+                    "startOffset": 39744,
                     "endLine": 397,
                     "endColumn": 12,
-                    "endOffset": 39981
+                    "endOffset": 39985
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5270,10 +5270,10 @@
                 "to": {
                     "startLine": 398,
                     "startColumn": 4,
-                    "startOffset": 39986,
+                    "startOffset": 39990,
                     "endLine": 401,
                     "endColumn": 12,
-                    "endOffset": 40206
+                    "endOffset": 40210
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5291,10 +5291,10 @@
                 "to": {
                     "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 40211,
+                    "startOffset": 40215,
                     "endLine": 405,
                     "endColumn": 12,
-                    "endOffset": 40453
+                    "endOffset": 40457
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5312,10 +5312,10 @@
                 "to": {
                     "startLine": 406,
                     "startColumn": 4,
-                    "startOffset": 40458,
+                    "startOffset": 40462,
                     "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 40674
+                    "endOffset": 40678
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5333,10 +5333,10 @@
                 "to": {
                     "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 40679,
+                    "startOffset": 40683,
                     "endLine": 413,
                     "endColumn": 12,
-                    "endOffset": 40919
+                    "endOffset": 40923
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5354,10 +5354,10 @@
                 "to": {
                     "startLine": 414,
                     "startColumn": 4,
-                    "startOffset": 40924,
+                    "startOffset": 40928,
                     "endLine": 417,
                     "endColumn": 12,
-                    "endOffset": 41193
+                    "endOffset": 41197
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5375,10 +5375,10 @@
                 "to": {
                     "startLine": 418,
                     "startColumn": 4,
-                    "startOffset": 41198,
+                    "startOffset": 41202,
                     "endLine": 421,
                     "endColumn": 12,
-                    "endOffset": 41494
+                    "endOffset": 41498
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5396,10 +5396,10 @@
                 "to": {
                     "startLine": 422,
                     "startColumn": 4,
-                    "startOffset": 41499,
+                    "startOffset": 41503,
                     "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 41818
+                    "endOffset": 41822
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5417,10 +5417,10 @@
                 "to": {
                     "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 41823,
+                    "startOffset": 41827,
                     "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 42109
+                    "endOffset": 42113
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5438,10 +5438,10 @@
                 "to": {
                     "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 42114,
+                    "startOffset": 42118,
                     "endLine": 433,
                     "endColumn": 12,
-                    "endOffset": 42423
+                    "endOffset": 42427
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5459,9 +5459,9 @@
                 "to": {
                     "startLine": 434,
                     "startColumn": 4,
-                    "startOffset": 42428,
+                    "startOffset": 42432,
                     "endColumn": 136,
-                    "endOffset": 42560
+                    "endOffset": 42564
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5478,9 +5478,9 @@
                 "to": {
                     "startLine": 435,
                     "startColumn": 4,
-                    "startOffset": 42565,
+                    "startOffset": 42569,
                     "endColumn": 130,
-                    "endOffset": 42691
+                    "endOffset": 42695
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5497,9 +5497,9 @@
                 "to": {
                     "startLine": 436,
                     "startColumn": 4,
-                    "startOffset": 42696,
+                    "startOffset": 42700,
                     "endColumn": 104,
-                    "endOffset": 42796
+                    "endOffset": 42800
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5516,10 +5516,10 @@
                 "to": {
                     "startLine": 437,
                     "startColumn": 4,
-                    "startOffset": 42801,
+                    "startOffset": 42805,
                     "endLine": 439,
                     "endColumn": 12,
-                    "endOffset": 43000
+                    "endOffset": 43004
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5537,10 +5537,10 @@
                 "to": {
                     "startLine": 440,
                     "startColumn": 4,
-                    "startOffset": 43005,
+                    "startOffset": 43009,
                     "endLine": 442,
                     "endColumn": 12,
-                    "endOffset": 43208
+                    "endOffset": 43212
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5558,10 +5558,10 @@
                 "to": {
                     "startLine": 443,
                     "startColumn": 4,
-                    "startOffset": 43213,
+                    "startOffset": 43217,
                     "endLine": 444,
                     "endColumn": 12,
-                    "endOffset": 43332
+                    "endOffset": 43336
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5579,10 +5579,10 @@
                 "to": {
                     "startLine": 445,
                     "startColumn": 4,
-                    "startOffset": 43337,
+                    "startOffset": 43341,
                     "endLine": 446,
                     "endColumn": 12,
-                    "endOffset": 43456
+                    "endOffset": 43460
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5600,9 +5600,9 @@
                 "to": {
                     "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 43461,
+                    "startOffset": 43465,
                     "endColumn": 104,
-                    "endOffset": 43561
+                    "endOffset": 43565
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5619,9 +5619,9 @@
                 "to": {
                     "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 43566,
+                    "startOffset": 43570,
                     "endColumn": 116,
-                    "endOffset": 43678
+                    "endOffset": 43682
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5638,10 +5638,10 @@
                 "to": {
                     "startLine": 449,
                     "startColumn": 4,
-                    "startOffset": 43683,
+                    "startOffset": 43687,
                     "endLine": 451,
                     "endColumn": 12,
-                    "endOffset": 43892
+                    "endOffset": 43896
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5659,10 +5659,10 @@
                 "to": {
                     "startLine": 452,
                     "startColumn": 4,
-                    "startOffset": 43897,
+                    "startOffset": 43901,
                     "endLine": 453,
                     "endColumn": 12,
-                    "endOffset": 44038
+                    "endOffset": 44042
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5680,10 +5680,10 @@
                 "to": {
                     "startLine": 454,
                     "startColumn": 4,
-                    "startOffset": 44043,
+                    "startOffset": 44047,
                     "endLine": 455,
                     "endColumn": 12,
-                    "endOffset": 44178
+                    "endOffset": 44182
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5701,10 +5701,10 @@
                 "to": {
                     "startLine": 456,
                     "startColumn": 4,
-                    "startOffset": 44183,
+                    "startOffset": 44187,
                     "endLine": 457,
                     "endColumn": 12,
-                    "endOffset": 44264
+                    "endOffset": 44268
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5722,10 +5722,10 @@
                 "to": {
                     "startLine": 458,
                     "startColumn": 4,
-                    "startOffset": 44269,
+                    "startOffset": 44273,
                     "endLine": 462,
                     "endColumn": 12,
-                    "endOffset": 44612
+                    "endOffset": 44616
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5743,9 +5743,9 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 44617,
+                    "startOffset": 44621,
                     "endColumn": 87,
-                    "endOffset": 44700
+                    "endOffset": 44704
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5762,10 +5762,10 @@
                 "to": {
                     "startLine": 464,
                     "startColumn": 4,
-                    "startOffset": 44705,
+                    "startOffset": 44709,
                     "endLine": 467,
                     "endColumn": 12,
-                    "endOffset": 44930
+                    "endOffset": 44934
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5783,10 +5783,10 @@
                 "to": {
                     "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 44935,
+                    "startOffset": 44939,
                     "endLine": 473,
                     "endColumn": 12,
-                    "endOffset": 45348
+                    "endOffset": 45352
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5804,10 +5804,10 @@
                 "to": {
                     "startLine": 474,
                     "startColumn": 4,
-                    "startOffset": 45353,
+                    "startOffset": 45357,
                     "endLine": 477,
                     "endColumn": 12,
-                    "endOffset": 45581
+                    "endOffset": 45585
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5825,9 +5825,9 @@
                 "to": {
                     "startLine": 478,
                     "startColumn": 4,
-                    "startOffset": 45586,
+                    "startOffset": 45590,
                     "endColumn": 81,
-                    "endOffset": 45663
+                    "endOffset": 45667
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5844,10 +5844,10 @@
                 "to": {
                     "startLine": 479,
                     "startColumn": 4,
-                    "startOffset": 45668,
+                    "startOffset": 45672,
                     "endLine": 480,
                     "endColumn": 12,
-                    "endOffset": 45761
+                    "endOffset": 45765
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5865,10 +5865,10 @@
                 "to": {
                     "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 45766,
+                    "startOffset": 45770,
                     "endLine": 491,
                     "endColumn": 12,
-                    "endOffset": 46378
+                    "endOffset": 46382
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5886,9 +5886,9 @@
                 "to": {
                     "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 46383,
+                    "startOffset": 46387,
                     "endColumn": 99,
-                    "endOffset": 46478
+                    "endOffset": 46482
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5905,10 +5905,10 @@
                 "to": {
                     "startLine": 493,
                     "startColumn": 4,
-                    "startOffset": 46483,
+                    "startOffset": 46487,
                     "endLine": 496,
                     "endColumn": 12,
-                    "endOffset": 46714
+                    "endOffset": 46718
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5926,10 +5926,10 @@
                 "to": {
                     "startLine": 497,
                     "startColumn": 4,
-                    "startOffset": 46719,
+                    "startOffset": 46723,
                     "endLine": 502,
                     "endColumn": 12,
-                    "endOffset": 47138
+                    "endOffset": 47142
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5947,10 +5947,10 @@
                 "to": {
                     "startLine": 503,
                     "startColumn": 4,
-                    "startOffset": 47143,
+                    "startOffset": 47147,
                     "endLine": 506,
                     "endColumn": 12,
-                    "endOffset": 47377
+                    "endOffset": 47381
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5968,9 +5968,9 @@
                 "to": {
                     "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 47382,
+                    "startOffset": 47386,
                     "endColumn": 93,
-                    "endOffset": 47471
+                    "endOffset": 47475
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5987,9 +5987,9 @@
                 "to": {
                     "startLine": 508,
                     "startColumn": 4,
-                    "startOffset": 47476,
+                    "startOffset": 47480,
                     "endColumn": 88,
-                    "endOffset": 47560
+                    "endOffset": 47564
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6006,10 +6006,10 @@
                 "to": {
                     "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 47565,
+                    "startOffset": 47569,
                     "endLine": 512,
                     "endColumn": 12,
-                    "endOffset": 47797
+                    "endOffset": 47801
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6027,10 +6027,10 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 47802,
+                    "startOffset": 47806,
                     "endLine": 538,
                     "endColumn": 12,
-                    "endOffset": 49748
+                    "endOffset": 49752
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6048,10 +6048,10 @@
                 "to": {
                     "startLine": 539,
                     "startColumn": 4,
-                    "startOffset": 49753,
+                    "startOffset": 49757,
                     "endLine": 542,
                     "endColumn": 12,
-                    "endOffset": 49990
+                    "endOffset": 49994
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6069,10 +6069,10 @@
                 "to": {
                     "startLine": 543,
                     "startColumn": 4,
-                    "startOffset": 49995,
+                    "startOffset": 49999,
                     "endLine": 569,
                     "endColumn": 12,
-                    "endOffset": 52072
+                    "endOffset": 52076
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6090,10 +6090,10 @@
                 "to": {
                     "startLine": 570,
                     "startColumn": 4,
-                    "startOffset": 52077,
+                    "startOffset": 52081,
                     "endLine": 722,
                     "endColumn": 12,
-                    "endOffset": 61754
+                    "endOffset": 61758
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6111,10 +6111,10 @@
                 "to": {
                     "startLine": 723,
                     "startColumn": 4,
-                    "startOffset": 61759,
+                    "startOffset": 61763,
                     "endLine": 744,
                     "endColumn": 12,
-                    "endOffset": 63021
+                    "endOffset": 63025
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6132,10 +6132,10 @@
                 "to": {
                     "startLine": 745,
                     "startColumn": 4,
-                    "startOffset": 63026,
+                    "startOffset": 63030,
                     "endLine": 897,
                     "endColumn": 12,
-                    "endOffset": 72813
+                    "endOffset": 72817
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6153,10 +6153,10 @@
                 "to": {
                     "startLine": 898,
                     "startColumn": 4,
-                    "startOffset": 72818,
+                    "startOffset": 72822,
                     "endLine": 919,
                     "endColumn": 12,
-                    "endOffset": 74094
+                    "endOffset": 74098
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6174,10 +6174,10 @@
                 "to": {
                     "startLine": 920,
                     "startColumn": 4,
-                    "startOffset": 74099,
+                    "startOffset": 74103,
                     "endLine": 926,
                     "endColumn": 12,
-                    "endOffset": 74630
+                    "endOffset": 74634
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6195,10 +6195,10 @@
                 "to": {
                     "startLine": 927,
                     "startColumn": 4,
-                    "startOffset": 74635,
+                    "startOffset": 74639,
                     "endLine": 931,
                     "endColumn": 12,
-                    "endOffset": 74960
+                    "endOffset": 74964
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6216,10 +6216,10 @@
                 "to": {
                     "startLine": 932,
                     "startColumn": 4,
-                    "startOffset": 74965,
+                    "startOffset": 74969,
                     "endLine": 952,
                     "endColumn": 12,
-                    "endOffset": 76083
+                    "endOffset": 76087
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6237,10 +6237,10 @@
                 "to": {
                     "startLine": 953,
                     "startColumn": 4,
-                    "startOffset": 76088,
+                    "startOffset": 76092,
                     "endLine": 957,
                     "endColumn": 12,
-                    "endOffset": 76339
+                    "endOffset": 76343
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6258,10 +6258,10 @@
                 "to": {
                     "startLine": 958,
                     "startColumn": 4,
-                    "startOffset": 76344,
+                    "startOffset": 76348,
                     "endLine": 962,
                     "endColumn": 12,
-                    "endOffset": 76575
+                    "endOffset": 76579
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6279,10 +6279,10 @@
                 "to": {
                     "startLine": 963,
                     "startColumn": 4,
-                    "startOffset": 76580,
+                    "startOffset": 76584,
                     "endLine": 972,
                     "endColumn": 12,
-                    "endOffset": 77122
+                    "endOffset": 77126
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6300,10 +6300,10 @@
                 "to": {
                     "startLine": 973,
                     "startColumn": 4,
-                    "startOffset": 77127,
+                    "startOffset": 77131,
                     "endLine": 981,
                     "endColumn": 12,
-                    "endOffset": 77616
+                    "endOffset": 77620
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6321,10 +6321,10 @@
                 "to": {
                     "startLine": 982,
                     "startColumn": 4,
-                    "startOffset": 77621,
+                    "startOffset": 77625,
                     "endLine": 990,
                     "endColumn": 12,
-                    "endOffset": 78221
+                    "endOffset": 78225
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6342,10 +6342,10 @@
                 "to": {
                     "startLine": 991,
                     "startColumn": 4,
-                    "startOffset": 78226,
+                    "startOffset": 78230,
                     "endLine": 993,
                     "endColumn": 12,
-                    "endOffset": 78369
+                    "endOffset": 78373
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6363,10 +6363,10 @@
                 "to": {
                     "startLine": 994,
                     "startColumn": 4,
-                    "startOffset": 78374,
+                    "startOffset": 78378,
                     "endLine": 1000,
                     "endColumn": 12,
-                    "endOffset": 78957
+                    "endOffset": 78961
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6384,10 +6384,10 @@
                 "to": {
                     "startLine": 1001,
                     "startColumn": 4,
-                    "startOffset": 78962,
+                    "startOffset": 78966,
                     "endLine": 1008,
                     "endColumn": 12,
-                    "endOffset": 79521
+                    "endOffset": 79525
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6405,10 +6405,10 @@
                 "to": {
                     "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 79526,
+                    "startOffset": 79530,
                     "endLine": 1015,
                     "endColumn": 12,
-                    "endOffset": 79896
+                    "endOffset": 79900
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6426,9 +6426,9 @@
                 "to": {
                     "startLine": 1016,
                     "startColumn": 4,
-                    "startOffset": 79901,
+                    "startOffset": 79905,
                     "endColumn": 117,
-                    "endOffset": 80014
+                    "endOffset": 80018
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6445,10 +6445,10 @@
                 "to": {
                     "startLine": 1017,
                     "startColumn": 4,
-                    "startOffset": 80019,
+                    "startOffset": 80023,
                     "endLine": 1025,
                     "endColumn": 12,
-                    "endOffset": 80552
+                    "endOffset": 80556
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6466,10 +6466,10 @@
                 "to": {
                     "startLine": 1026,
                     "startColumn": 4,
-                    "startOffset": 80557,
+                    "startOffset": 80561,
                     "endLine": 1028,
                     "endColumn": 12,
-                    "endOffset": 80709
+                    "endOffset": 80713
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6487,10 +6487,10 @@
                 "to": {
                     "startLine": 1029,
                     "startColumn": 4,
-                    "startOffset": 80714,
+                    "startOffset": 80718,
                     "endLine": 1031,
                     "endColumn": 12,
-                    "endOffset": 80853
+                    "endOffset": 80857
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6508,10 +6508,10 @@
                 "to": {
                     "startLine": 1032,
                     "startColumn": 4,
-                    "startOffset": 80858,
+                    "startOffset": 80862,
                     "endLine": 1036,
                     "endColumn": 12,
-                    "endOffset": 81173
+                    "endOffset": 81177
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6529,10 +6529,10 @@
                 "to": {
                     "startLine": 1037,
                     "startColumn": 4,
-                    "startOffset": 81178,
+                    "startOffset": 81182,
                     "endLine": 1040,
                     "endColumn": 12,
-                    "endOffset": 81429
+                    "endOffset": 81433
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6550,10 +6550,10 @@
                 "to": {
                     "startLine": 1041,
                     "startColumn": 4,
-                    "startOffset": 81434,
+                    "startOffset": 81438,
                     "endLine": 1044,
                     "endColumn": 12,
-                    "endOffset": 81599
+                    "endOffset": 81603
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6571,10 +6571,10 @@
                 "to": {
                     "startLine": 1045,
                     "startColumn": 4,
-                    "startOffset": 81604,
+                    "startOffset": 81608,
                     "endLine": 1047,
                     "endColumn": 12,
-                    "endOffset": 81740
+                    "endOffset": 81744
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6592,9 +6592,9 @@
                 "to": {
                     "startLine": 1048,
                     "startColumn": 4,
-                    "startOffset": 81745,
+                    "startOffset": 81749,
                     "endColumn": 63,
-                    "endOffset": 81804
+                    "endOffset": 81808
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6611,10 +6611,10 @@
                 "to": {
                     "startLine": 1049,
                     "startColumn": 4,
-                    "startOffset": 81809,
+                    "startOffset": 81813,
                     "endLine": 1052,
                     "endColumn": 12,
-                    "endOffset": 82086
+                    "endOffset": 82090
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6632,10 +6632,10 @@
                 "to": {
                     "startLine": 1053,
                     "startColumn": 4,
-                    "startOffset": 82091,
+                    "startOffset": 82095,
                     "endLine": 1056,
                     "endColumn": 12,
-                    "endOffset": 82372
+                    "endOffset": 82376
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6653,10 +6653,10 @@
                 "to": {
                     "startLine": 1057,
                     "startColumn": 4,
-                    "startOffset": 82377,
+                    "startOffset": 82381,
                     "endLine": 1066,
                     "endColumn": 12,
-                    "endOffset": 83048
+                    "endOffset": 83052
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6674,10 +6674,10 @@
                 "to": {
                     "startLine": 1067,
                     "startColumn": 4,
-                    "startOffset": 83053,
+                    "startOffset": 83057,
                     "endLine": 1071,
                     "endColumn": 12,
-                    "endOffset": 83312
+                    "endOffset": 83316
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6695,10 +6695,10 @@
                 "to": {
                     "startLine": 1072,
                     "startColumn": 4,
-                    "startOffset": 83317,
+                    "startOffset": 83321,
                     "endLine": 1078,
                     "endColumn": 12,
-                    "endOffset": 83650
+                    "endOffset": 83654
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6716,10 +6716,10 @@
                 "to": {
                     "startLine": 1079,
                     "startColumn": 4,
-                    "startOffset": 83655,
+                    "startOffset": 83659,
                     "endLine": 1084,
                     "endColumn": 12,
-                    "endOffset": 84003
+                    "endOffset": 84007
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6737,9 +6737,9 @@
                 "to": {
                     "startLine": 1085,
                     "startColumn": 4,
-                    "startOffset": 84008,
+                    "startOffset": 84012,
                     "endColumn": 93,
-                    "endOffset": 84097
+                    "endOffset": 84101
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6756,10 +6756,10 @@
                 "to": {
                     "startLine": 1086,
                     "startColumn": 4,
-                    "startOffset": 84102,
+                    "startOffset": 84106,
                     "endLine": 1088,
                     "endColumn": 12,
-                    "endOffset": 84283
+                    "endOffset": 84287
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6777,10 +6777,10 @@
                 "to": {
                     "startLine": 1089,
                     "startColumn": 4,
-                    "startOffset": 84288,
+                    "startOffset": 84292,
                     "endLine": 1092,
                     "endColumn": 12,
-                    "endOffset": 84589
+                    "endOffset": 84593
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6798,10 +6798,10 @@
                 "to": {
                     "startLine": 1093,
                     "startColumn": 4,
-                    "startOffset": 84594,
+                    "startOffset": 84598,
                     "endLine": 1097,
                     "endColumn": 12,
-                    "endOffset": 84851
+                    "endOffset": 84855
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6819,10 +6819,10 @@
                 "to": {
                     "startLine": 1098,
                     "startColumn": 4,
-                    "startOffset": 84856,
+                    "startOffset": 84860,
                     "endLine": 1099,
                     "endColumn": 12,
-                    "endOffset": 84976
+                    "endOffset": 84980
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6840,10 +6840,10 @@
                 "to": {
                     "startLine": 1100,
                     "startColumn": 4,
-                    "startOffset": 84981,
+                    "startOffset": 84985,
                     "endLine": 1101,
                     "endColumn": 12,
-                    "endOffset": 85103
+                    "endOffset": 85107
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6861,10 +6861,10 @@
                 "to": {
                     "startLine": 1102,
                     "startColumn": 4,
-                    "startOffset": 85108,
+                    "startOffset": 85112,
                     "endLine": 1104,
                     "endColumn": 12,
-                    "endOffset": 85342
+                    "endOffset": 85346
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6882,10 +6882,10 @@
                 "to": {
                     "startLine": 1105,
                     "startColumn": 4,
-                    "startOffset": 85347,
+                    "startOffset": 85351,
                     "endLine": 1107,
                     "endColumn": 12,
-                    "endOffset": 85553
+                    "endOffset": 85557
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6903,10 +6903,10 @@
                 "to": {
                     "startLine": 1108,
                     "startColumn": 4,
-                    "startOffset": 85558,
+                    "startOffset": 85562,
                     "endLine": 1109,
                     "endColumn": 12,
-                    "endOffset": 85672
+                    "endOffset": 85676
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6924,10 +6924,10 @@
                 "to": {
                     "startLine": 1110,
                     "startColumn": 4,
-                    "startOffset": 85677,
+                    "startOffset": 85681,
                     "endLine": 1113,
                     "endColumn": 12,
-                    "endOffset": 85865
+                    "endOffset": 85869
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6945,10 +6945,10 @@
                 "to": {
                     "startLine": 1114,
                     "startColumn": 4,
-                    "startOffset": 85870,
+                    "startOffset": 85874,
                     "endLine": 1120,
                     "endColumn": 12,
-                    "endOffset": 86320
+                    "endOffset": 86324
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6966,10 +6966,10 @@
                 "to": {
                     "startLine": 1121,
                     "startColumn": 4,
-                    "startOffset": 86325,
+                    "startOffset": 86329,
                     "endLine": 1123,
                     "endColumn": 12,
-                    "endOffset": 86501
+                    "endOffset": 86505
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6987,10 +6987,10 @@
                 "to": {
                     "startLine": 1124,
                     "startColumn": 4,
-                    "startOffset": 86506,
+                    "startOffset": 86510,
                     "endLine": 1126,
                     "endColumn": 12,
-                    "endOffset": 86623
+                    "endOffset": 86627
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7008,10 +7008,10 @@
                 "to": {
                     "startLine": 1127,
                     "startColumn": 4,
-                    "startOffset": 86628,
+                    "startOffset": 86632,
                     "endLine": 1130,
                     "endColumn": 12,
-                    "endOffset": 86882
+                    "endOffset": 86886
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7029,10 +7029,10 @@
                 "to": {
                     "startLine": 1131,
                     "startColumn": 4,
-                    "startOffset": 86887,
+                    "startOffset": 86891,
                     "endLine": 1132,
                     "endColumn": 12,
-                    "endOffset": 86995
+                    "endOffset": 86999
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7050,10 +7050,10 @@
                 "to": {
                     "startLine": 1133,
                     "startColumn": 4,
-                    "startOffset": 87000,
+                    "startOffset": 87004,
                     "endLine": 1136,
                     "endColumn": 12,
-                    "endOffset": 87182
+                    "endOffset": 87186
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7071,10 +7071,10 @@
                 "to": {
                     "startLine": 1137,
                     "startColumn": 4,
-                    "startOffset": 87187,
+                    "startOffset": 87191,
                     "endLine": 1138,
                     "endColumn": 12,
-                    "endOffset": 87284
+                    "endOffset": 87288
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7092,10 +7092,10 @@
                 "to": {
                     "startLine": 1139,
                     "startColumn": 4,
-                    "startOffset": 87289,
+                    "startOffset": 87293,
                     "endLine": 1144,
                     "endColumn": 12,
-                    "endOffset": 87728
+                    "endOffset": 87732
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7113,10 +7113,10 @@
                 "to": {
                     "startLine": 1145,
                     "startColumn": 4,
-                    "startOffset": 87733,
+                    "startOffset": 87737,
                     "endLine": 1146,
                     "endColumn": 12,
-                    "endOffset": 87852
+                    "endOffset": 87856
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7134,10 +7134,10 @@
                 "to": {
                     "startLine": 1147,
                     "startColumn": 4,
-                    "startOffset": 87857,
+                    "startOffset": 87861,
                     "endLine": 1150,
                     "endColumn": 12,
-                    "endOffset": 88137
+                    "endOffset": 88141
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7155,10 +7155,10 @@
                 "to": {
                     "startLine": 1151,
                     "startColumn": 4,
-                    "startOffset": 88142,
+                    "startOffset": 88146,
                     "endLine": 1162,
                     "endColumn": 12,
-                    "endOffset": 89024
+                    "endOffset": 89028
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7176,10 +7176,10 @@
                 "to": {
                     "startLine": 1163,
                     "startColumn": 4,
-                    "startOffset": 89029,
+                    "startOffset": 89033,
                     "endLine": 1168,
                     "endColumn": 12,
-                    "endOffset": 89318
+                    "endOffset": 89322
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7197,10 +7197,10 @@
                 "to": {
                     "startLine": 1169,
                     "startColumn": 4,
-                    "startOffset": 89323,
+                    "startOffset": 89327,
                     "endLine": 1177,
                     "endColumn": 12,
-                    "endOffset": 89888
+                    "endOffset": 89892
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7218,10 +7218,10 @@
                 "to": {
                     "startLine": 1178,
                     "startColumn": 4,
-                    "startOffset": 89893,
+                    "startOffset": 89897,
                     "endLine": 1188,
                     "endColumn": 12,
-                    "endOffset": 90620
+                    "endOffset": 90624
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7239,10 +7239,10 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 90625,
+                    "startOffset": 90629,
                     "endLine": 1191,
                     "endColumn": 12,
-                    "endOffset": 90792
+                    "endOffset": 90796
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7260,10 +7260,10 @@
                 "to": {
                     "startLine": 1192,
                     "startColumn": 4,
-                    "startOffset": 90797,
+                    "startOffset": 90801,
                     "endLine": 1196,
                     "endColumn": 12,
-                    "endOffset": 91128
+                    "endOffset": 91132
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7281,10 +7281,10 @@
                 "to": {
                     "startLine": 1197,
                     "startColumn": 4,
-                    "startOffset": 91133,
+                    "startOffset": 91137,
                     "endLine": 1208,
                     "endColumn": 12,
-                    "endOffset": 91995
+                    "endOffset": 91999
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7302,10 +7302,10 @@
                 "to": {
                     "startLine": 1209,
                     "startColumn": 4,
-                    "startOffset": 92000,
+                    "startOffset": 92004,
                     "endLine": 1213,
                     "endColumn": 12,
-                    "endOffset": 92273
+                    "endOffset": 92277
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7323,10 +7323,10 @@
                 "to": {
                     "startLine": 1214,
                     "startColumn": 4,
-                    "startOffset": 92278,
+                    "startOffset": 92282,
                     "endLine": 1221,
                     "endColumn": 12,
-                    "endOffset": 92739
+                    "endOffset": 92743
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
@@ -7344,10 +7344,10 @@
                 "to": {
                     "startLine": 1222,
                     "startColumn": 4,
-                    "startOffset": 92744,
+                    "startOffset": 92748,
                     "endLine": 1224,
                     "endColumn": 12,
-                    "endOffset": 92865
+                    "endOffset": 92869
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
@@ -7365,10 +7365,10 @@
                 "to": {
                     "startLine": 1225,
                     "startColumn": 4,
-                    "startOffset": 92870,
+                    "startOffset": 92874,
                     "endLine": 1227,
                     "endColumn": 12,
-                    "endOffset": 92993
+                    "endOffset": 92997
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/res/values/values.xml",
@@ -7386,10 +7386,10 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 92998,
+                    "startOffset": 93002,
                     "endLine": 1265,
                     "endColumn": 12,
-                    "endOffset": 95855
+                    "endOffset": 95859
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7407,10 +7407,10 @@
                 "to": {
                     "startLine": 1266,
                     "startColumn": 4,
-                    "startOffset": 95860,
+                    "startOffset": 95864,
                     "endLine": 1304,
                     "endColumn": 12,
-                    "endOffset": 98857
+                    "endOffset": 98861
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7428,9 +7428,9 @@
                 "to": {
                     "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 98862,
+                    "startOffset": 98866,
                     "endColumn": 61,
-                    "endOffset": 98919
+                    "endOffset": 98923
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7447,10 +7447,10 @@
                 "to": {
                     "startLine": 1306,
                     "startColumn": 4,
-                    "startOffset": 98924,
+                    "startOffset": 98928,
                     "endLine": 1315,
                     "endColumn": 12,
-                    "endOffset": 99549
+                    "endOffset": 99553
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7468,10 +7468,10 @@
                 "to": {
                     "startLine": 1316,
                     "startColumn": 4,
-                    "startOffset": 99554,
+                    "startOffset": 99558,
                     "endLine": 1324,
                     "endColumn": 12,
-                    "endOffset": 100163
+                    "endOffset": 100167
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7489,9 +7489,9 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 100168,
+                    "startOffset": 100172,
                     "endColumn": 85,
-                    "endOffset": 100249
+                    "endOffset": 100253
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7508,10 +7508,10 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 100254,
+                    "startOffset": 100258,
                     "endLine": 1327,
                     "endColumn": 12,
-                    "endOffset": 100362
+                    "endOffset": 100366
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7529,10 +7529,10 @@
                 "to": {
                     "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 100367,
+                    "startOffset": 100371,
                     "endLine": 1331,
                     "endColumn": 12,
-                    "endOffset": 100591
+                    "endOffset": 100595
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7550,10 +7550,10 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 100596,
+                    "startOffset": 100600,
                     "endLine": 1334,
                     "endColumn": 12,
-                    "endOffset": 100751
+                    "endOffset": 100755
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7571,10 +7571,10 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 100756,
+                    "startOffset": 100760,
                     "endLine": 1337,
                     "endColumn": 12,
-                    "endOffset": 100903
+                    "endOffset": 100907
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7592,10 +7592,10 @@
                 "to": {
                     "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 100908,
+                    "startOffset": 100912,
                     "endLine": 1340,
                     "endColumn": 12,
-                    "endOffset": 101074
+                    "endOffset": 101078
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7613,10 +7613,10 @@
                 "to": {
                     "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 101079,
+                    "startOffset": 101083,
                     "endLine": 1343,
                     "endColumn": 12,
-                    "endOffset": 101241
+                    "endOffset": 101245
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7634,10 +7634,10 @@
                 "to": {
                     "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 101246,
+                    "startOffset": 101250,
                     "endLine": 1347,
                     "endColumn": 12,
-                    "endOffset": 101484
+                    "endOffset": 101488
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7655,10 +7655,10 @@
                 "to": {
                     "startLine": 1348,
                     "startColumn": 4,
-                    "startOffset": 101489,
+                    "startOffset": 101493,
                     "endLine": 1350,
                     "endColumn": 12,
-                    "endOffset": 101654
+                    "endOffset": 101658
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7676,10 +7676,10 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 101659,
+                    "startOffset": 101663,
                     "endLine": 1353,
                     "endColumn": 12,
-                    "endOffset": 101827
+                    "endOffset": 101831
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7697,10 +7697,10 @@
                 "to": {
                     "startLine": 1354,
                     "startColumn": 4,
-                    "startOffset": 101832,
+                    "startOffset": 101836,
                     "endLine": 1356,
                     "endColumn": 12,
-                    "endOffset": 101998
+                    "endOffset": 102002
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7718,10 +7718,10 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 102003,
+                    "startOffset": 102007,
                     "endLine": 1360,
                     "endColumn": 12,
-                    "endOffset": 102272
+                    "endOffset": 102276
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7739,10 +7739,10 @@
                 "to": {
                     "startLine": 1361,
                     "startColumn": 4,
-                    "startOffset": 102277,
+                    "startOffset": 102281,
                     "endLine": 1363,
                     "endColumn": 12,
-                    "endOffset": 102471
+                    "endOffset": 102475
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7760,10 +7760,10 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 102476,
+                    "startOffset": 102480,
                     "endLine": 1367,
                     "endColumn": 12,
-                    "endOffset": 102676
+                    "endOffset": 102680
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7781,10 +7781,10 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 102681,
+                    "startOffset": 102685,
                     "endLine": 1371,
                     "endColumn": 12,
-                    "endOffset": 103006
+                    "endOffset": 103010
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7802,9 +7802,9 @@
                 "to": {
                     "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 103011,
+                    "startOffset": 103015,
                     "endColumn": 83,
-                    "endOffset": 103090
+                    "endOffset": 103094
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7821,9 +7821,9 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 103095,
+                    "startOffset": 103099,
                     "endColumn": 95,
-                    "endOffset": 103186
+                    "endOffset": 103190
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7840,9 +7840,9 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 103191,
+                    "startOffset": 103195,
                     "endColumn": 95,
-                    "endOffset": 103282
+                    "endOffset": 103286
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7859,9 +7859,9 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 103287,
+                    "startOffset": 103291,
                     "endColumn": 97,
-                    "endOffset": 103380
+                    "endOffset": 103384
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7878,9 +7878,9 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 103385,
+                    "startOffset": 103389,
                     "endColumn": 99,
-                    "endOffset": 103480
+                    "endOffset": 103484
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7897,9 +7897,9 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 103485,
+                    "startOffset": 103489,
                     "endColumn": 101,
-                    "endOffset": 103582
+                    "endOffset": 103586
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7916,9 +7916,9 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 103587,
+                    "startOffset": 103591,
                     "endColumn": 101,
-                    "endOffset": 103684
+                    "endOffset": 103688
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7935,9 +7935,9 @@
                 "to": {
                     "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 103689,
+                    "startOffset": 103693,
                     "endColumn": 101,
-                    "endOffset": 103786
+                    "endOffset": 103790
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7954,9 +7954,9 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 103791,
+                    "startOffset": 103795,
                     "endColumn": 101,
-                    "endOffset": 103888
+                    "endOffset": 103892
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7973,9 +7973,9 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 103893,
+                    "startOffset": 103897,
                     "endColumn": 101,
-                    "endOffset": 103990
+                    "endOffset": 103994
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7992,9 +7992,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 103995,
+                    "startOffset": 103999,
                     "endColumn": 99,
-                    "endOffset": 104090
+                    "endOffset": 104094
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8011,9 +8011,9 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 104095,
+                    "startOffset": 104099,
                     "endColumn": 95,
-                    "endOffset": 104186
+                    "endOffset": 104190
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8030,9 +8030,9 @@
                 "to": {
                     "startLine": 1384,
                     "startColumn": 4,
-                    "startOffset": 104191,
+                    "startOffset": 104195,
                     "endColumn": 111,
-                    "endOffset": 104298
+                    "endOffset": 104302
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8049,9 +8049,9 @@
                 "to": {
                     "startLine": 1385,
                     "startColumn": 4,
-                    "startOffset": 104303,
+                    "startOffset": 104307,
                     "endColumn": 128,
-                    "endOffset": 104427
+                    "endOffset": 104431
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8068,9 +8068,9 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 104432,
+                    "startOffset": 104436,
                     "endColumn": 122,
-                    "endOffset": 104550
+                    "endOffset": 104554
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8087,10 +8087,10 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 104555,
+                    "startOffset": 104559,
                     "endLine": 1388,
                     "endColumn": 12,
-                    "endOffset": 104704
+                    "endOffset": 104708
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8108,10 +8108,10 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 104709,
+                    "startOffset": 104713,
                     "endLine": 1390,
                     "endColumn": 12,
-                    "endOffset": 104858
+                    "endOffset": 104862
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8129,9 +8129,9 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 104863,
+                    "startOffset": 104867,
                     "endColumn": 97,
-                    "endOffset": 104956
+                    "endOffset": 104960
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8148,9 +8148,9 @@
                 "to": {
                     "startLine": 1392,
                     "startColumn": 4,
-                    "startOffset": 104961,
+                    "startOffset": 104965,
                     "endColumn": 113,
-                    "endOffset": 105070
+                    "endOffset": 105074
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8167,9 +8167,9 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 105075,
+                    "startOffset": 105079,
                     "endColumn": 93,
-                    "endOffset": 105164
+                    "endOffset": 105168
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8186,10 +8186,10 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 105169,
+                    "startOffset": 105173,
                     "endLine": 1395,
                     "endColumn": 12,
-                    "endOffset": 105304
+                    "endOffset": 105308
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8207,10 +8207,10 @@
                 "to": {
                     "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 105309,
+                    "startOffset": 105313,
                     "endLine": 1397,
                     "endColumn": 12,
-                    "endOffset": 105438
+                    "endOffset": 105442
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8228,9 +8228,9 @@
                 "to": {
                     "startLine": 1398,
                     "startColumn": 4,
-                    "startOffset": 105443,
+                    "startOffset": 105447,
                     "endColumn": 95,
-                    "endOffset": 105534
+                    "endOffset": 105538
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8247,9 +8247,9 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 105539,
+                    "startOffset": 105543,
                     "endColumn": 111,
-                    "endOffset": 105646
+                    "endOffset": 105650
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8266,9 +8266,9 @@
                 "to": {
                     "startLine": 1400,
                     "startColumn": 4,
-                    "startOffset": 105651,
+                    "startOffset": 105655,
                     "endColumn": 99,
-                    "endOffset": 105746
+                    "endOffset": 105750
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8285,9 +8285,9 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 105751,
+                    "startOffset": 105755,
                     "endColumn": 115,
-                    "endOffset": 105862
+                    "endOffset": 105866
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8304,9 +8304,9 @@
                 "to": {
                     "startLine": 1402,
                     "startColumn": 4,
-                    "startOffset": 105867,
+                    "startOffset": 105871,
                     "endColumn": 95,
-                    "endOffset": 105958
+                    "endOffset": 105962
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8323,9 +8323,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 105963,
+                    "startOffset": 105967,
                     "endColumn": 111,
-                    "endOffset": 106070
+                    "endOffset": 106074
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8342,10 +8342,10 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 106075,
+                    "startOffset": 106079,
                     "endLine": 1405,
                     "endColumn": 12,
-                    "endOffset": 106210
+                    "endOffset": 106214
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8363,9 +8363,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 106215,
+                    "startOffset": 106219,
                     "endColumn": 135,
-                    "endOffset": 106346
+                    "endOffset": 106350
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8382,10 +8382,10 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 106351,
+                    "startOffset": 106355,
                     "endLine": 1408,
                     "endColumn": 12,
-                    "endOffset": 106510
+                    "endOffset": 106514
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8403,9 +8403,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 106515,
+                    "startOffset": 106519,
                     "endColumn": 129,
-                    "endOffset": 106640
+                    "endOffset": 106644
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8422,10 +8422,10 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 106645,
+                    "startOffset": 106649,
                     "endLine": 1411,
                     "endColumn": 12,
-                    "endOffset": 106798
+                    "endOffset": 106802
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8443,10 +8443,10 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 106803,
+                    "startOffset": 106807,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 106948
+                    "endOffset": 106952
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8464,9 +8464,9 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 106953,
+                    "startOffset": 106957,
                     "endColumn": 140,
-                    "endOffset": 107089
+                    "endOffset": 107093
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8483,10 +8483,10 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 107094,
+                    "startOffset": 107098,
                     "endLine": 1416,
                     "endColumn": 12,
-                    "endOffset": 107233
+                    "endOffset": 107237
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8504,9 +8504,9 @@
                 "to": {
                     "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 107238,
+                    "startOffset": 107242,
                     "endColumn": 134,
-                    "endOffset": 107368
+                    "endOffset": 107372
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8523,9 +8523,9 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 107373,
+                    "startOffset": 107377,
                     "endColumn": 111,
-                    "endOffset": 107480
+                    "endOffset": 107484
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8542,9 +8542,9 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 107485,
+                    "startOffset": 107489,
                     "endColumn": 127,
-                    "endOffset": 107608
+                    "endOffset": 107612
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8561,10 +8561,10 @@
                 "to": {
                     "startLine": 1420,
                     "startColumn": 4,
-                    "startOffset": 107613,
+                    "startOffset": 107617,
                     "endLine": 1421,
                     "endColumn": 12,
-                    "endOffset": 107744
+                    "endOffset": 107748
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8582,10 +8582,10 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 107749,
+                    "startOffset": 107753,
                     "endLine": 1423,
                     "endColumn": 12,
-                    "endOffset": 107886
+                    "endOffset": 107890
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8603,10 +8603,10 @@
                 "to": {
                     "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 107891,
+                    "startOffset": 107895,
                     "endLine": 1425,
                     "endColumn": 12,
-                    "endOffset": 108028
+                    "endOffset": 108032
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8624,9 +8624,9 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 108033,
+                    "startOffset": 108037,
                     "endColumn": 111,
-                    "endOffset": 108140
+                    "endOffset": 108144
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8643,9 +8643,9 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 108145,
+                    "startOffset": 108149,
                     "endColumn": 139,
-                    "endOffset": 108280
+                    "endOffset": 108284
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8662,9 +8662,9 @@
                 "to": {
                     "startLine": 1428,
                     "startColumn": 4,
-                    "startOffset": 108285,
+                    "startOffset": 108289,
                     "endColumn": 67,
-                    "endOffset": 108348
+                    "endOffset": 108352
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8681,9 +8681,9 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 108353,
+                    "startOffset": 108357,
                     "endColumn": 72,
-                    "endOffset": 108421
+                    "endOffset": 108425
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8700,9 +8700,9 @@
                 "to": {
                     "startLine": 1430,
                     "startColumn": 4,
-                    "startOffset": 108426,
+                    "startOffset": 108430,
                     "endColumn": 73,
-                    "endOffset": 108495
+                    "endOffset": 108499
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8719,9 +8719,9 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 108500,
+                    "startOffset": 108504,
                     "endColumn": 72,
-                    "endOffset": 108568
+                    "endOffset": 108572
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8738,9 +8738,9 @@
                 "to": {
                     "startLine": 1432,
                     "startColumn": 4,
-                    "startOffset": 108573,
+                    "startOffset": 108577,
                     "endColumn": 73,
-                    "endOffset": 108642
+                    "endOffset": 108646
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8757,10 +8757,10 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 108647,
+                    "startOffset": 108651,
                     "endLine": 1434,
                     "endColumn": 12,
-                    "endOffset": 108788
+                    "endOffset": 108792
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8778,10 +8778,10 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 108793,
+                    "startOffset": 108797,
                     "endLine": 1436,
                     "endColumn": 12,
-                    "endOffset": 108932
+                    "endOffset": 108936
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8799,10 +8799,10 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 108937,
+                    "startOffset": 108941,
                     "endLine": 1438,
                     "endColumn": 12,
-                    "endOffset": 109070
+                    "endOffset": 109074
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8820,9 +8820,9 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 109075,
+                    "startOffset": 109079,
                     "endColumn": 65,
-                    "endOffset": 109136
+                    "endOffset": 109140
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8839,9 +8839,9 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 109141,
+                    "startOffset": 109145,
                     "endColumn": 89,
-                    "endOffset": 109226
+                    "endOffset": 109230
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8858,9 +8858,9 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 109231,
+                    "startOffset": 109235,
                     "endColumn": 79,
-                    "endOffset": 109306
+                    "endOffset": 109310
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8877,9 +8877,9 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 109311,
+                    "startOffset": 109315,
                     "endColumn": 91,
-                    "endOffset": 109398
+                    "endOffset": 109402
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8896,9 +8896,9 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 109403,
+                    "startOffset": 109407,
                     "endColumn": 97,
-                    "endOffset": 109496
+                    "endOffset": 109500
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8915,10 +8915,10 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 109501,
+                    "startOffset": 109505,
                     "endLine": 1445,
                     "endColumn": 12,
-                    "endOffset": 109606
+                    "endOffset": 109610
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8936,9 +8936,9 @@
                 "to": {
                     "startLine": 1446,
                     "startColumn": 4,
-                    "startOffset": 109611,
+                    "startOffset": 109615,
                     "endColumn": 77,
-                    "endOffset": 109684
+                    "endOffset": 109688
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8955,9 +8955,9 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 109689,
+                    "startOffset": 109693,
                     "endColumn": 105,
-                    "endOffset": 109790
+                    "endOffset": 109794
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8974,9 +8974,9 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 109795,
+                    "startOffset": 109799,
                     "endColumn": 91,
-                    "endOffset": 109882
+                    "endOffset": 109886
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8993,9 +8993,9 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 109887,
+                    "startOffset": 109891,
                     "endColumn": 103,
-                    "endOffset": 109986
+                    "endOffset": 109990
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9012,9 +9012,9 @@
                 "to": {
                     "startLine": 1450,
                     "startColumn": 4,
-                    "startOffset": 109991,
+                    "startOffset": 109995,
                     "endColumn": 109,
-                    "endOffset": 110096
+                    "endOffset": 110100
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9031,10 +9031,10 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 110101,
+                    "startOffset": 110105,
                     "endLine": 1452,
                     "endColumn": 12,
-                    "endOffset": 110218
+                    "endOffset": 110222
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9052,10 +9052,10 @@
                 "to": {
                     "startLine": 1453,
                     "startColumn": 4,
-                    "startOffset": 110223,
+                    "startOffset": 110227,
                     "endLine": 1456,
                     "endColumn": 12,
-                    "endOffset": 110381
+                    "endOffset": 110385
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9073,10 +9073,10 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 110386,
+                    "startOffset": 110390,
                     "endLine": 1460,
                     "endColumn": 12,
-                    "endOffset": 110538
+                    "endOffset": 110542
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9094,9 +9094,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 110543,
+                    "startOffset": 110547,
                     "endColumn": 79,
-                    "endOffset": 110618
+                    "endOffset": 110622
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9113,9 +9113,9 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 110623,
+                    "startOffset": 110627,
                     "endColumn": 99,
-                    "endOffset": 110718
+                    "endOffset": 110722
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9132,9 +9132,9 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 110723,
+                    "startOffset": 110727,
                     "endColumn": 89,
-                    "endOffset": 110808
+                    "endOffset": 110812
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9151,9 +9151,9 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 110813,
+                    "startOffset": 110817,
                     "endColumn": 109,
-                    "endOffset": 110918
+                    "endOffset": 110922
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9170,9 +9170,9 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 110923,
+                    "startOffset": 110927,
                     "endColumn": 91,
-                    "endOffset": 111010
+                    "endOffset": 111014
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9189,10 +9189,10 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 111015,
+                    "startOffset": 111019,
                     "endLine": 1467,
                     "endColumn": 12,
-                    "endOffset": 111110
+                    "endOffset": 111114
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9210,10 +9210,10 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 111115,
+                    "startOffset": 111119,
                     "endLine": 1469,
                     "endColumn": 12,
-                    "endOffset": 111222
+                    "endOffset": 111226
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9231,10 +9231,10 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 111227,
+                    "startOffset": 111231,
                     "endLine": 1471,
                     "endColumn": 12,
-                    "endOffset": 111336
+                    "endOffset": 111340
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9252,10 +9252,10 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 111341,
+                    "startOffset": 111345,
                     "endLine": 1473,
                     "endColumn": 12,
-                    "endOffset": 111452
+                    "endOffset": 111456
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9273,10 +9273,10 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 111457,
+                    "startOffset": 111461,
                     "endLine": 1475,
                     "endColumn": 12,
-                    "endOffset": 111568
+                    "endOffset": 111572
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9294,9 +9294,9 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 111573,
+                    "startOffset": 111577,
                     "endColumn": 93,
-                    "endOffset": 111662
+                    "endOffset": 111666
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9313,9 +9313,9 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 111667,
+                    "startOffset": 111671,
                     "endColumn": 113,
-                    "endOffset": 111776
+                    "endOffset": 111780
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9332,9 +9332,9 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 111781,
+                    "startOffset": 111785,
                     "endColumn": 111,
-                    "endOffset": 111888
+                    "endOffset": 111892
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9351,10 +9351,10 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 111893,
+                    "startOffset": 111897,
                     "endLine": 1480,
                     "endColumn": 12,
-                    "endOffset": 111990
+                    "endOffset": 111994
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9372,10 +9372,10 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 111995,
+                    "startOffset": 111999,
                     "endLine": 1482,
                     "endColumn": 12,
-                    "endOffset": 112110
+                    "endOffset": 112114
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9393,10 +9393,10 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 112115,
+                    "startOffset": 112119,
                     "endLine": 1484,
                     "endColumn": 12,
-                    "endOffset": 112232
+                    "endOffset": 112236
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9414,9 +9414,9 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 112237,
+                    "startOffset": 112241,
                     "endColumn": 81,
-                    "endOffset": 112314
+                    "endOffset": 112318
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9433,9 +9433,9 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 112319,
+                    "startOffset": 112323,
                     "endColumn": 103,
-                    "endOffset": 112418
+                    "endOffset": 112422
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9452,9 +9452,9 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 112423,
+                    "startOffset": 112427,
                     "endColumn": 119,
-                    "endOffset": 112538
+                    "endOffset": 112542
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9471,9 +9471,9 @@
                 "to": {
                     "startLine": 1488,
                     "startColumn": 4,
-                    "startOffset": 112543,
+                    "startOffset": 112547,
                     "endColumn": 125,
-                    "endOffset": 112664
+                    "endOffset": 112668
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9490,9 +9490,9 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 112669,
+                    "startOffset": 112673,
                     "endColumn": 97,
-                    "endOffset": 112762
+                    "endOffset": 112766
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9509,9 +9509,9 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 112767,
+                    "startOffset": 112771,
                     "endColumn": 93,
-                    "endOffset": 112856
+                    "endOffset": 112860
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9528,9 +9528,9 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 112861,
+                    "startOffset": 112865,
                     "endColumn": 87,
-                    "endOffset": 112944
+                    "endOffset": 112948
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9547,9 +9547,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 112949,
+                    "startOffset": 112953,
                     "endColumn": 111,
-                    "endOffset": 113056
+                    "endOffset": 113060
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9566,9 +9566,9 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 113061,
+                    "startOffset": 113065,
                     "endColumn": 115,
-                    "endOffset": 113172
+                    "endOffset": 113176
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9585,9 +9585,9 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 113177,
+                    "startOffset": 113181,
                     "endColumn": 121,
-                    "endOffset": 113294
+                    "endOffset": 113298
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9604,9 +9604,9 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 113299,
+                    "startOffset": 113303,
                     "endColumn": 111,
-                    "endOffset": 113406
+                    "endOffset": 113410
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9623,10 +9623,10 @@
                 "to": {
                     "startLine": 1496,
                     "startColumn": 4,
-                    "startOffset": 113411,
+                    "startOffset": 113415,
                     "endLine": 1498,
                     "endColumn": 12,
-                    "endOffset": 113581
+                    "endOffset": 113585
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9644,9 +9644,9 @@
                 "to": {
                     "startLine": 1499,
                     "startColumn": 4,
-                    "startOffset": 113586,
+                    "startOffset": 113590,
                     "endColumn": 115,
-                    "endOffset": 113697
+                    "endOffset": 113701
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9663,9 +9663,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 113702,
+                    "startOffset": 113706,
                     "endColumn": 85,
-                    "endOffset": 113783
+                    "endOffset": 113787
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9682,9 +9682,9 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 113788,
+                    "startOffset": 113792,
                     "endColumn": 91,
-                    "endOffset": 113875
+                    "endOffset": 113879
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9701,10 +9701,10 @@
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 113880,
+                    "startOffset": 113884,
                     "endLine": 1503,
                     "endColumn": 12,
-                    "endOffset": 113987
+                    "endOffset": 113991
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9722,10 +9722,10 @@
                 "to": {
                     "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 113992,
+                    "startOffset": 113996,
                     "endLine": 1505,
                     "endColumn": 12,
-                    "endOffset": 114111
+                    "endOffset": 114115
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9743,9 +9743,9 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 114116,
+                    "startOffset": 114120,
                     "endColumn": 66,
-                    "endOffset": 114178
+                    "endOffset": 114182
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9762,10 +9762,10 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 114183,
+                    "startOffset": 114187,
                     "endLine": 1508,
                     "endColumn": 12,
-                    "endOffset": 114304
+                    "endOffset": 114308
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9783,9 +9783,9 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 114309,
+                    "startOffset": 114313,
                     "endColumn": 67,
-                    "endOffset": 114372
+                    "endOffset": 114376
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9802,10 +9802,10 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 114377,
+                    "startOffset": 114381,
                     "endLine": 1511,
                     "endColumn": 12,
-                    "endOffset": 114500
+                    "endOffset": 114504
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9823,10 +9823,10 @@
                 "to": {
                     "startLine": 1512,
                     "startColumn": 4,
-                    "startOffset": 114505,
+                    "startOffset": 114509,
                     "endLine": 1513,
                     "endColumn": 12,
-                    "endOffset": 114644
+                    "endOffset": 114648
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9844,10 +9844,10 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 114649,
+                    "startOffset": 114653,
                     "endLine": 1515,
                     "endColumn": 12,
-                    "endOffset": 114772
+                    "endOffset": 114776
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9865,9 +9865,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 114777,
+                    "startOffset": 114781,
                     "endColumn": 68,
-                    "endOffset": 114841
+                    "endOffset": 114845
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9884,9 +9884,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 114846,
+                    "startOffset": 114850,
                     "endColumn": 94,
-                    "endOffset": 114936
+                    "endOffset": 114940
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9903,9 +9903,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 114941,
+                    "startOffset": 114945,
                     "endColumn": 114,
-                    "endOffset": 115051
+                    "endOffset": 115055
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9922,9 +9922,9 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 115056,
+                    "startOffset": 115060,
                     "endColumn": 112,
-                    "endOffset": 115164
+                    "endOffset": 115168
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9941,9 +9941,9 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 115169,
+                    "startOffset": 115173,
                     "endColumn": 98,
-                    "endOffset": 115263
+                    "endOffset": 115267
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9960,9 +9960,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 115268,
+                    "startOffset": 115272,
                     "endColumn": 108,
-                    "endOffset": 115372
+                    "endOffset": 115376
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9979,9 +9979,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 115377,
+                    "startOffset": 115381,
                     "endColumn": 110,
-                    "endOffset": 115483
+                    "endOffset": 115487
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9998,9 +9998,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 115488,
+                    "startOffset": 115492,
                     "endColumn": 110,
-                    "endOffset": 115594
+                    "endOffset": 115598
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10017,9 +10017,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 115599,
+                    "startOffset": 115603,
                     "endColumn": 100,
-                    "endOffset": 115695
+                    "endOffset": 115699
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10036,9 +10036,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 115700,
+                    "startOffset": 115704,
                     "endColumn": 104,
-                    "endOffset": 115800
+                    "endOffset": 115804
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10055,10 +10055,10 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 115805,
+                    "startOffset": 115809,
                     "endLine": 1527,
                     "endColumn": 12,
-                    "endOffset": 115912
+                    "endOffset": 115916
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10076,10 +10076,10 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 115917,
+                    "startOffset": 115921,
                     "endLine": 1529,
                     "endColumn": 12,
-                    "endOffset": 116042
+                    "endOffset": 116046
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10097,9 +10097,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 116047,
+                    "startOffset": 116051,
                     "endColumn": 90,
-                    "endOffset": 116133
+                    "endOffset": 116137
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10116,9 +10116,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 116138,
+                    "startOffset": 116142,
                     "endColumn": 122,
-                    "endOffset": 116256
+                    "endOffset": 116260
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10135,10 +10135,10 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 116261,
+                    "startOffset": 116265,
                     "endLine": 1533,
                     "endColumn": 12,
-                    "endOffset": 116368
+                    "endOffset": 116372
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10156,9 +10156,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 116373,
+                    "startOffset": 116377,
                     "endColumn": 85,
-                    "endOffset": 116454
+                    "endOffset": 116458
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10175,9 +10175,9 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 116459,
+                    "startOffset": 116463,
                     "endColumn": 103,
-                    "endOffset": 116558
+                    "endOffset": 116562
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10194,10 +10194,10 @@
                 "to": {
                     "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 116563,
+                    "startOffset": 116567,
                     "endLine": 1537,
                     "endColumn": 12,
-                    "endOffset": 116666
+                    "endOffset": 116670
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10215,10 +10215,10 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 116671,
+                    "startOffset": 116675,
                     "endLine": 1539,
                     "endColumn": 12,
-                    "endOffset": 116766
+                    "endOffset": 116770
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10236,10 +10236,10 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 116771,
+                    "startOffset": 116775,
                     "endLine": 1541,
                     "endColumn": 12,
-                    "endOffset": 116884
+                    "endOffset": 116888
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10257,10 +10257,10 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 116889,
+                    "startOffset": 116893,
                     "endLine": 1543,
                     "endColumn": 12,
-                    "endOffset": 116988
+                    "endOffset": 116992
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10278,10 +10278,10 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 116993,
+                    "startOffset": 116997,
                     "endLine": 1545,
                     "endColumn": 12,
-                    "endOffset": 117092
+                    "endOffset": 117096
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10299,10 +10299,10 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 117097,
+                    "startOffset": 117101,
                     "endLine": 1547,
                     "endColumn": 12,
-                    "endOffset": 117218
+                    "endOffset": 117222
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10320,9 +10320,9 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 117223,
+                    "startOffset": 117227,
                     "endColumn": 87,
-                    "endOffset": 117306
+                    "endOffset": 117310
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10339,9 +10339,9 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 117311,
+                    "startOffset": 117315,
                     "endColumn": 89,
-                    "endOffset": 117396
+                    "endOffset": 117400
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10358,9 +10358,9 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 117401,
+                    "startOffset": 117405,
                     "endColumn": 109,
-                    "endOffset": 117506
+                    "endOffset": 117510
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10377,9 +10377,9 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 117511,
+                    "startOffset": 117515,
                     "endColumn": 83,
-                    "endOffset": 117590
+                    "endOffset": 117594
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10396,9 +10396,9 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 117595,
+                    "startOffset": 117599,
                     "endColumn": 83,
-                    "endOffset": 117674
+                    "endOffset": 117678
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10415,9 +10415,9 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 117679,
+                    "startOffset": 117683,
                     "endColumn": 53,
-                    "endOffset": 117728
+                    "endOffset": 117732
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10434,9 +10434,9 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 117733,
+                    "startOffset": 117737,
                     "endColumn": 63,
-                    "endOffset": 117792
+                    "endOffset": 117796
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10453,9 +10453,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 117797,
+                    "startOffset": 117801,
                     "endColumn": 105,
-                    "endOffset": 117898
+                    "endOffset": 117902
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10472,9 +10472,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 117903,
+                    "startOffset": 117907,
                     "endColumn": 109,
-                    "endOffset": 118008
+                    "endOffset": 118012
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10491,9 +10491,9 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 118013,
+                    "startOffset": 118017,
                     "endColumn": 83,
-                    "endOffset": 118092
+                    "endOffset": 118096
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10510,9 +10510,9 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 118097,
+                    "startOffset": 118101,
                     "endColumn": 119,
-                    "endOffset": 118212
+                    "endOffset": 118216
                 },
                 "from": {
                     "file": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",

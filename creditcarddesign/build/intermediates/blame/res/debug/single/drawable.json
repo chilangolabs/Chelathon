@@ -148,12 +148,12 @@
         "source": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/src/main/res/drawable/card_color_round_rect_default.xml"
     },
     {
-        "merged": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
         "merged": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/res/merged/debug/drawable/chip_yellow.xml",
         "source": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/src/main/res/drawable/chip_yellow.xml"
+    },
+    {
+        "merged": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
         "merged": "/Users/gorro/GitRepos/ModeloNow/creditcarddesign/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",

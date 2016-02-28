@@ -81,10 +81,8 @@ public class MainActivity extends AppCompatActivity {
         AccessToken accessToken = AccessToken.getCurrentAccessToken();
         if (accessToken != null && !regis) {
             startActivity(new Intent(this, DrawerActivity.class)
-                    .setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP
-                            | Intent.FLAG_ACTIVITY_NEW_TASK
-                            | Intent.FLAG_ACTIVITY_CLEAR_TASK
-                            | Intent.FLAG_ACTIVITY_NO_HISTORY));
+            );
+            finish();
         }
 
         btnLogin.setOnClickListener(new View.OnClickListener() {
@@ -130,11 +128,7 @@ public class MainActivity extends AppCompatActivity {
                                     } catch (JSONException e) {
                                         e.printStackTrace();
                                     }
-                                    startActivity(new Intent(MainActivity.this, DrawerActivity.class)
-                                            .setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP
-                                                    | Intent.FLAG_ACTIVITY_NEW_TASK
-                                                    | Intent.FLAG_ACTIVITY_CLEAR_TASK
-                                                    | Intent.FLAG_ACTIVITY_NO_HISTORY));
+                                    startActivity(new Intent(MainActivity.this, DrawerActivity.class));
                                 }
                             }, new Response.ErrorListener() {
                                 @Override
