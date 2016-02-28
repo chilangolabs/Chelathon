@@ -66,7 +66,7 @@ module.exports = function(router) {
             'address': {
               'street1': user.address[indexAddress].street,
               'city': user.address[indexAddress].street,
-              'state': user.address[indexAddress].this.state.,
+              'state': user.address[indexAddress].this.state,
               'country': 'MX',
               'zip': user.address[indexAddress].zipCode
             }
