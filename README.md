@@ -8,11 +8,13 @@ En este repositorio se puede encontrar en la rama `master` la parte backend en
 Node.js, con capa de persistencia en MongoDB.
 
 En la rama `androidapp` se encuentra el proyecto de la aplicación en Android.
+En la rama `telegram` se encuentra el proyecto del bot de Telegram.
 
 El backend en Node.js está pensado para escalar horizontalmente con poca escala vertical.
 
 La aplicación en Android sigue las métricas de diseño de Material Design, al igual que
 patrones de desarrollo ágil y un limpio diseño.
+
 
 Integrantes:
 - [Sebastián Tellez](https://twitter.com/gorrotowi)
