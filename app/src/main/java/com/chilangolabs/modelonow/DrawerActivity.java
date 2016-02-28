@@ -21,6 +21,8 @@ import com.chilangolabs.modelonow.fragments.FragmentPromos;
 import com.facebook.login.LoginManager;
 import com.squareup.picasso.Picasso;
 
+import layout.FragmentVaquita;
+
 public class DrawerActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     static public DrawerLayout drawerLayout;
@@ -88,6 +90,10 @@ public class DrawerActivity extends AppCompatActivity implements NavigationView.
             case R.id.nav_item_promos:
                 changeFragment(new FragmentPromos());
                 toolbar.setTitle("Promociones");
+                return true;
+            case R.id.nav_item_vaquita:
+                changeFragment(new FragmentVaquita());
+                toolbar.setTitle("Arma la vaquita");
                 return true;
             case R.id.nav_item_logout:
                 LoginManager.getInstance().logOut();
