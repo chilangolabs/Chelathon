@@ -1,7 +1,9 @@
 {
   "middleware": {
     "logBody": {
-      "module": "./lib/middleware/logBody"
+      "module": {
+        "name": "path:./lib/middleware/logBody"
+      }
     },
     "devtools": {
       "enabled": true,
