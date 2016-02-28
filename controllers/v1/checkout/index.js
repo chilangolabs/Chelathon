@@ -34,7 +34,7 @@ module.exports = function(router) {
       userId = decoded;
     });
 
-    Conekta.api_key = req.app.krake.get('conekta:privateKey');
+    Conekta.api_key = req.app.krake.get('CONEKTA_PRIVATE');
 
     User.findById(userId, function(err, user) {
       if (err) {
@@ -42,7 +42,7 @@ module.exports = function(router) {
         return res.sendStatus(500);
       }
 
-      Conekta.Charge.create({
+      var _cart = {
         'description': 'ModeloNow',
         'amount': 2000, // Change amount
         'currency': 'MXN',
@@ -65,14 +65,16 @@ module.exports = function(router) {
             'price': 0,
             'address': {
               'street1': user.address[indexAddress].street,
-              'city': user.address[indexAddress].street,
-              'state': user.address[indexAddress].this.state,
+              'city': user.city,
+              'state': user.address[indexAddress].state,
               'country': 'MX',
               'zip': user.address[indexAddress].zipCode
             }
           }
         }
-      }, function(err, res) {
+      };
+
+      Conekta.Charge.create(_cart, function(err, res) {
         if (err) {
           console.error(err);
           return res.sendStatus(500);
