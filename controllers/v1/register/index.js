@@ -25,7 +25,7 @@ module.exports = function(router) {
 
         var user = new User(_user);
         user.save(function(err) {
-          if (err) { next(err); }
+          if (err) { return next(err); }
           req.session.user = user;
           next();
         });
