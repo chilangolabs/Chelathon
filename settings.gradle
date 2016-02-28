@@ -1,1 +1,1 @@
-include ':app', ':creditcarddesign', ':circualreveal', ':likebutton'
+include ':app', ':creditcarddesign', ':circualreveal', ':likebutton', ':core', ':commons'
