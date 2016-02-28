@@ -4,9 +4,6 @@ var jwt = require('jsonwebtoken');
 var User = require('../../../models/User');
 
 module.exports = function(router) {
-
-  var model = {status: 'ok'};
-
   router.post('/', function(req, res) {
     var authKey = req.headers['x-access-token'];
     var token = req.body.token;
